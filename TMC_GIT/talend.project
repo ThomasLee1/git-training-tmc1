@@ -472,4 +472,7 @@
     <migrationTask xmi:id="_bRjVF7_wEei2kf8cuSRHYw" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Zl97sr_wEei2kf8cuSRHYw" login="hpayon@trial13479.us.talend.com" firstName="Hubert" lastName="Payon" type="DQ"/>
+  <TalendProperties:User xmi:id="_hnn9oL_zEei2kf8cuSRHYw" login="jsmith2@trial13479.us.talend.com" firstName="Jane" lastName="Smith" type="DQ"/>
+  <TalendProperties:User xmi:id="_hnn9ob_zEei2kf8cuSRHYw" login="jsmith@trial13479.us.talend.com" firstName="John" lastName="Smith" type="DQ"/>
+  <TalendProperties:User xmi:id="_hnn9or_zEei2kf8cuSRHYw" login="again@trial13479.us.talend.com" firstName="alain" lastName="gain" type="DQ"/>
 </xmi:XMI>
